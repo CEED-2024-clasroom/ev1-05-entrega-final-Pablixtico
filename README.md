@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/PjCTuN0y)
 # Proyecto de Desarrollo Web en Entorno Cliente 2024-2025
 
 [Ejemplo del resultado final del proyecto](https://ceed-cross.netlify.app)
@@ -57,7 +56,7 @@ La clase `Game` la puedes importar de `./lib/Game.js`. La estructura de `wordPos
   {
     origin: [x,y],          // La casilla superior izquierda es 0,0. La inferior derecha es 9,9
     direction: 'horizontal' // Puede ser <"vertical" u "horizontal">,
-    length: n               // Longitud de la palabra
+    length: n       // Longitud de la palabra
   },
   ...
 ]
@@ -83,10 +82,6 @@ funcionar con cualquier conjunto de casillas —no sólo con las que hay de ejem
 rejilla.
 
 En la web https://crosswordlabs.com/ puedes generar nuevos puzzles si lo necesitas.
-
-
-
-
 
 ## Fase II
 
